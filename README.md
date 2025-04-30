@@ -79,4 +79,15 @@
 Le projet est en cours de développement. Certaines fonctionnalités sont prévues pour les futures mises à jour afin d'améliorer l'expérience utilisateur et la performance globale de l'application.
 
 
+RAPPORT TEST DE PERFORMANCE
+[Locust.pdf](https://github.com/user-attachments/files/19984733/Locust.pdf)
 
+
+RAPPORT DE COUVERTURE
+![Capture d'écran 2025-04-30 212521](https://github.com/user-attachments/assets/e3c41048-d563-494b-9b51-8a0e6df95163)
+[Coverage report.pdf](https://github.com/user-attachments/files/19984721/Coverage.report.pdf)
+
+
+RAPPORT FLACK8
+[flake8 violations.pdf](https://github.com/user-attachments/files/19984689/flake8.violations.pdf)
+![Capture d'écran 2025-04-30 212803](https://github.com/user-attachments/assets/15320ede-ca83-4a39-961a-000a3b7dc115)
